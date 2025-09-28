@@ -1,2 +1,2 @@
-# Certifica-o-em-TI
+# Certificacao-em-TI
 Site sobre certificação em TI
