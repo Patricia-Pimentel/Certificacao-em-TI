@@ -3,7 +3,7 @@ Site sobre certificação em TI
 Grupo
 Débora
 
-Janaina [https://github.com/Janaina-paiva]
+[Janaina] (https://github.com/Janaina-paiva)
 
 Patricia []
 
