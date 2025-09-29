@@ -1,12 +1,13 @@
 # Certificacao-em-TI
 Site sobre certificação em TI
 Grupo
-Débora
+
+[Débora](https://github.com/deboramendonca18)
 
 [Janaina](https://github.com/Janaina-paiva)
 
-Patricia []
+[Patrícia](https://github.com/Patricia-Pimentel)
 
-Thiago
+[Thiago](https://github.com/thgs-br)
 
-Habila
+[Habila](https://github.com/Habila-Lima)
