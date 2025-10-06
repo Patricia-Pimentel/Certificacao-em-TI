@@ -108,9 +108,11 @@ p {
 }
 h3 a {
     color: var(--cor-primaria);
+    text-decoration: none;
+    
 }
-h3 a :hover{
-    color: var(--cor-borda);
+h3 a:hover{
+    color: var(--cor-secundaria);
 }
 
 /* --------------------
@@ -186,9 +188,10 @@ footer {
 
 footer strong {
     color: var(--cor-primaria);
-}
+   
 footer a{
     color: var(--cor-primaria);
+    text-decoration: none;
 
 }
 footer a:hover {
@@ -214,3 +217,4 @@ footer a:hover {
     }
 
 }
+
