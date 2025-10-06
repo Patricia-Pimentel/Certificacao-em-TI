@@ -106,6 +106,12 @@ h3, h4 {
 p {
     margin-bottom: 15px;
 }
+h3 a {
+    color: var(--cor-primaria);
+}
+h3 a :hover{
+    color: var(--cor-borda);
+}
 
 /* --------------------
    4. Tabelas 
@@ -181,7 +187,13 @@ footer {
 footer strong {
     color: var(--cor-primaria);
 }
+footer a{
+    color: var(--cor-primaria);
 
+}
+footer a:hover {
+    color: var(--cor-clara);
+}
 /* --------------------
    6. Responsividade (Desktop)
    
@@ -200,4 +212,5 @@ footer strong {
     table {
         display: table;
     }
+
 }
