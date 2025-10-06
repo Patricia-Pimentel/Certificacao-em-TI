@@ -188,7 +188,7 @@ footer {
 
 footer strong {
     color: var(--cor-primaria);
-   
+}
 footer a{
     color: var(--cor-primaria);
     text-decoration: none;
@@ -217,4 +217,5 @@ footer a:hover {
     }
 
 }
+
 
